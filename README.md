@@ -1,27 +1,110 @@
-# 💫 About Me:
-  I'm a Frontend Web Developer passionate about crafting interactive and user-friendly web applications. My journey in web development has equipped me with skills in:<br><br>Languages & Frameworks: HTML, CSS, Bootstrap, JavaScript, React.js<br>Tools & Platforms: Git, GitHub <br>Experience:<br><br>Frontend Developer Intern at Slash Mark (Jan 2024 - Apr 2024)<br>Collaborated on developing responsive web applications<br>Enhanced user experience through innovative UI solutions<br>Projects:<br><br>Meat Delivery App: A seamless platform connecting local meat vendors with customers, ensuring fresh deliveries.<br>Food Munch Website: A dynamic website offering users a curated list of recipes and restaurant reviews.
+<h1 align="center">Hi 👋, I'm Vamsi Krishna Paluru</h1>
+<h3 align="center">Frontend Developer | MERN Stack Developer | React.js Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VamsiRoyals) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v_a_m_s_i__16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-krishna-paluru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vamsirOyals143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paluruvamsikrishna16@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ! ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vamsikrishna976&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vamsikrishna976&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna976&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vamsikrishna976&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vamsikrishna976&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+Building scalable web applications with React, Node.js, PostgreSQL and modern cloud technologies.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamsikrishna976&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering Graduate
+- 💻 Frontend Developer with internship and freelance experience
+- ⚛️ Specialized in React.js, Redux Toolkit, Tailwind CSS, JavaScript and TypeScript
+- 🌱 Exploring Full Stack Development, Cloud and DevOps
+- 🏥 Built a Production-Ready Hospital Management System (HMS)
+- 📍 Bangalore, India
+- 🎯 Open to Frontend Developer, React Developer and MERN Stack opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- Shadcn UI
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+
+### Cloud & Tools
+- Azure
+- AWS
+- Docker
+- Git & GitHub
+- Postman
+- Vercel
+- Render
+
+---
+
+## 🏥 Featured Project: Hospital Management System
+
+Production-ready HMS built with modern full-stack architecture.
+
+### Features
+- Patient Registration & Search
+- OP Management
+- Complaint Management
+- Doctor Assignment Workflow
+- Doctor Dashboard
+- Prescription Management
+- Pharmacy Billing System
+- Audit Logs & Analytics
+- Role-Based Access Control
+- JWT Authentication
+
+### Tech Stack
+React.js • TypeScript • Vite • Tailwind CSS • Shadcn UI • Framer Motion • Node.js • Express.js • PostgreSQL • Prisma ORM
+
+---
+
+## 🍔 Other Projects
+
+### FoodAdda
+- Swiggy-inspired food ordering platform
+- Redux Toolkit state management
+- Cart & menu management
+- Search & filtering
+- Shimmer UI and lazy loading
+
+### Job Postings Portal
+- Real-time job listings
+- Search and filtering
+- API integration
+- Responsive UI
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vamsikrishna976&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vamsikrishna976&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsikrishna976&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/vamsi-krishna-paluru
+- GitHub: https://github.com/Vamsikrishna976
+- Email: paluruvamsikrishna16@gmail.com
+
+⭐ Thanks for visiting my profile!
