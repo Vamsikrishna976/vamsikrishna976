@@ -1,78 +1,78 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Vamsi%20Krishna%20Paluru&fontAlignY=40&fontSize=45&animation=fadeIn" />
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Vamsi Krishna Paluru Banner"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+%7C+TypeScript+%7C+MERN+Stack;Building+Production+Ready+Applications;Hospital+Management+System+Developer;Open+to+Frontend+and+Full+Stack+Roles"/>
-</div>
+<h1 align="center">👋 Hi, I'm Vamsi Krishna Paluru</h1>
+<h3 align="center">Frontend Developer • React.js Developer • MERN Stack Developer</h3>
+
+<p align="center">
+  Building scalable web applications with React, TypeScript, Node.js and PostgreSQL.
+</p>
+
+---
 
 ## 💎 About Me
 
-```yaml
-Name: Vamsi Krishna Paluru
-Location: Bangalore, India
-Role: Frontend Developer
-Experience: Freelance + Internship Experience
-Specialization: React.js, TypeScript, MERN Stack
-Current Project: Hospital Management System
-```
-
-### 🚀 What I Build
-
-- Modern React.js Applications
-- Full Stack MERN Solutions
-- Enterprise Dashboards
-- Healthcare Management Platforms
-- Responsive & High Performance UIs
-- Cloud Ready Applications
+- 🎓 Computer Science & Engineering Graduate
+- 💻 Frontend Developer with internship and freelance experience
+- ⚛️ Specialized in React.js, TypeScript, Redux Toolkit & Tailwind CSS
+- 🏥 Built a Production-Ready Hospital Management System
+- ☁️ Exploring Azure Cloud & Modern Full Stack Development
+- 📍 Bangalore, India
+- 🎯 Open to Frontend, React and MERN Stack opportunities
 
 ---
 
-## 🏥 Flagship Project — Hospital Management System
+# 🏥 Hospital Management System Architecture
 
-### Enterprise Healthcare Platform
+<p align="center">
+  <img src="./assets/hms-architecture.png" width="100%" alt="HMS Architecture"/>
+</p>
 
-✨ Patient Registration & Search
+---
 
-✨ OP Management Workflow
+# 🚀 Featured Projects
 
-✨ Complaint Management
+## 🏥 Hospital Management System
 
-✨ Doctor Assignment System
+<p align="center">
+  <img src="./assets/hms-card.png" width="100%" alt="Hospital Management System"/>
+</p>
 
-✨ Doctor Dashboard
-
-✨ Prescription Management
-
-✨ Pharmacy Billing
-
-✨ Audit Logs
-
-✨ Analytics Dashboard
-
-✨ JWT Authentication & RBAC
+### Key Features
+- Patient Registration & Search
+- OP Management
+- Complaint Management
+- Doctor Assignment Workflow
+- Doctor Dashboard
+- Prescription Management
+- Pharmacy Billing
+- Audit Logs & Analytics
+- JWT Authentication & RBAC
 
 ### Tech Stack
+React.js • TypeScript • Node.js • Express.js • PostgreSQL • Prisma ORM • Tailwind CSS • Shadcn UI • Framer Motion
 
-`React.js` `TypeScript` `Vite` `Tailwind CSS` `Shadcn UI` `Framer Motion`
-
-`Node.js` `Express.js` `PostgreSQL` `Prisma ORM`
-
-🔗 Repository: https://github.com/Vamsikrishna976/hospital-management-system
+🔗 Repo: https://github.com/Vamsikrishna976/hospital-management-system
 
 ---
 
-## 🍔 Featured Project — Food Adda
+## 🍔 Food Adda
 
-Swiggy-inspired Food Ordering Platform
+<p align="center">
+  <img src="./assets/foodadda-card.png" width="100%" alt="Food Adda"/>
+</p>
 
+### Highlights
 - Live Restaurant APIs
-- Redux Toolkit
-- Cart Management
+- Redux Toolkit State Management
+- Cart & Menu Management
 - Search & Filtering
 - Shimmer UI
 - Lazy Loading
 - Responsive Design
 
-🔗 Repository: https://github.com/Vamsikrishna976/Food_Adda
+🔗 Repo: https://github.com/Vamsikrishna976/Food_Adda
 
 ---
 
@@ -105,19 +105,27 @@ Azure • AWS • Docker • Git • GitHub • Vercel • Render
 
 ---
 
-## 🏆 Current Focus
+## 🐍 Contribution Snake
 
-- Building scalable healthcare software
+<p align="center">
+<img src="https://github.com/Vamsikrishna976/Vamsikrishna976/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
 - Advanced React & TypeScript
-- Azure Cloud Certifications
-- Full Stack Development
-- System Design & Performance Optimization
+- Azure Certifications
+- System Design
+- Full Stack Architecture
+- Performance Optimization
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 paluruvamsikrishna16@gmail.com
+📧 Email: paluruvamsikrishna16@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/vamsi-krishna-paluru
 
@@ -125,4 +133,4 @@ Azure • AWS • Docker • Git • GitHub • Vercel • Render
 
 ---
 
-⭐ Always building, learning, and shipping impactful products.
+⭐ Thanks for visiting my profile!
