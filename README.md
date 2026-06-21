@@ -6,7 +6,7 @@
 <h3 align="center">Frontend Developer • React.js Developer • MERN Stack Developer</h3>
 
 <p align="center">
-  Building scalable web applications with React, TypeScript, Node.js and PostgreSQL.
+Building scalable web applications with React, TypeScript, Node.js and PostgreSQL.
 </p>
 
 ---
@@ -17,9 +17,9 @@
 - 💻 Frontend Developer with internship and freelance experience
 - ⚛️ Specialized in React.js, TypeScript, Redux Toolkit & Tailwind CSS
 - 🏥 Built a Production-Ready Hospital Management System
-- ☁️ Exploring Azure Cloud & Modern Full Stack Development
+- ☁️ Exploring Azure Cloud, AI and Full Stack Development
 - 📍 Bangalore, India
-- 🎯 Open to Frontend, React and MERN Stack opportunities
+- 🎯 Open to Frontend, React, MERN Stack and Full Stack opportunities
 
 ---
 
@@ -39,16 +39,27 @@
   <img src="./assets/hms-card.png" width="100%" alt="Hospital Management System"/>
 </p>
 
-### Key Features
-- Patient Registration & Search
-- OP Management
-- Complaint Management
-- Doctor Assignment Workflow
-- Doctor Dashboard
-- Prescription Management
-- Pharmacy Billing
-- Audit Logs & Analytics
-- JWT Authentication & RBAC
+### Enterprise Healthcare Platform
+
+✔ Patient Registration & Search
+
+✔ OP Management Workflow
+
+✔ Complaint Management
+
+✔ Doctor Assignment System
+
+✔ Doctor Dashboard
+
+✔ Prescription Management
+
+✔ Pharmacy Billing
+
+✔ Audit Logs & Analytics
+
+✔ JWT Authentication + RBAC
+
+✔ PostgreSQL + Prisma ORM
 
 ### Tech Stack
 React.js • TypeScript • Node.js • Express.js • PostgreSQL • Prisma ORM • Tailwind CSS • Shadcn UI • Framer Motion
@@ -108,18 +119,36 @@ Azure • AWS • Docker • Git • GitHub • Vercel • Render
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Vamsikrishna976/Vamsikrishna976/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Vamsikrishna976/vamsikrishna976/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Current Focus
 
-- Advanced React & TypeScript
-- Azure Certifications
-- System Design
-- Full Stack Architecture
-- Performance Optimization
+💡 Building Enterprise-Grade Applications
+
+⚡ Advanced React & TypeScript
+
+☁️ Azure Cloud & AI Certifications
+
+🏗️ System Design & Scalable Architectures
+
+🔐 Authentication, RBAC & Security
+
+📈 Performance Optimization & Analytics
+
+---
+
+## 💼 Open To Opportunities
+
+- Frontend Developer
+- React.js Developer
+- MERN Stack Developer
+- Full Stack Developer
+- Software Engineer Intern
+
+📍 Location: Bangalore, India
 
 ---
 
