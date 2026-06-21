@@ -13,6 +13,22 @@ Building scalable web applications with React, TypeScript, Node.js and PostgreSQ
 🌐 Portfolio: https://portfolio-vamsi-krishna-seven.vercel.app/
 </p>
 
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/Vamsikrishna976/vamsikrishna976/raw/main/assets/VamsiKrishna_Paluru_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-vamsi-krishna-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 💎 About Me
@@ -150,6 +166,8 @@ Azure • AWS • Docker • Git • GitHub • Vercel • Render
 ## 🌐 Connect With Me
 
 🌐 Portfolio: https://portfolio-vamsi-krishna-seven.vercel.app/
+
+📄 Resume: https://github.com/Vamsikrishna976/vamsikrishna976/raw/main/assets/VamsiKrishna_Paluru_Resume.pdf
 
 📧 Email: paluruvamsikrishna16@gmail.com
 
