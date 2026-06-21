@@ -9,6 +9,10 @@
 Building scalable web applications with React, TypeScript, Node.js and PostgreSQL.
 </p>
 
+<p align="center">
+🌐 Portfolio: https://portfolio-vamsi-krishna-seven.vercel.app/
+</p>
+
 ---
 
 ## 💎 About Me
@@ -42,23 +46,14 @@ Building scalable web applications with React, TypeScript, Node.js and PostgreSQ
 ### Enterprise Healthcare Platform
 
 ✔ Patient Registration & Search
-
 ✔ OP Management Workflow
-
 ✔ Complaint Management
-
 ✔ Doctor Assignment System
-
 ✔ Doctor Dashboard
-
 ✔ Prescription Management
-
 ✔ Pharmacy Billing
-
 ✔ Audit Logs & Analytics
-
 ✔ JWT Authentication + RBAC
-
 ✔ PostgreSQL + Prisma ORM
 
 ### Tech Stack
@@ -153,6 +148,8 @@ Azure • AWS • Docker • Git • GitHub • Vercel • Render
 ---
 
 ## 🌐 Connect With Me
+
+🌐 Portfolio: https://portfolio-vamsi-krishna-seven.vercel.app/
 
 📧 Email: paluruvamsikrishna16@gmail.com
 
